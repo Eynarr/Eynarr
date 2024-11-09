@@ -8,10 +8,10 @@ I'm a Software Engineering student with a passion for backend development and da
 
 I’m also eager to learn best practices in **database optimization** and **system architecture**, and I'm highly interested in working on projects that solve real-world problems or contribute to open-source communities. Through these projects, I aim to enhance my skills and make a positive impact in the tech community.
 
-**I’m looking to collaborate on:**  
+- **I’m looking to collaborate on:**  
 Backend projects or beginner-friendly open-source projects to help me improve my JavaScript skills and backend development knowledge.
 
-**My career goal:**  
+- **My career goal:**  
 To become a skilled backend developer who can design efficient systems and contribute to impactful projects. I aspire to work in environments that foster continuous learning and collaboration, where I can develop solutions that make a difference.
 
 &nbsp;
