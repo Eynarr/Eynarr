@@ -20,8 +20,8 @@ jobs:
               with:
                   github_user_name: eynarr
                   outputs: |
-                      dist/snake.svg?color_snake=#58a6ff&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-                      dist/snake-dark.svg?color_snake=#58a6ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+                      dist/snake.svg?color_snake=#58a6ff&color_dots=#ebedf0,#c0a7ff,#a78bfa,#8b5cf6,#6d28d9
+                      dist/snake-dark.svg?color_snake=#58a6ff&color_dots=#161b22,#2e1065,#6d28d9,#a78bfa,#c4b5fd
 
             - name: Push to output branch
               uses: crazy-max/ghaction-github-pages@v3
