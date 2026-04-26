@@ -1,32 +1,74 @@
-<h1 align="center">Hi 👋, I'm Eynar Morales</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-&nbsp;
-&nbsp;
+<h3 align="center">I'm Eynar Morales — Aspiring Data Engineer 🚀</h3>
 
-# 💫 About Me
-I'm a Software Engineering student with a passion for backend development and data management. Currently, I'm focused on building a strong foundation in backend technologies as I dive deeper into **JavaScript** and explore frameworks like **Node.js** and **RESTful APIs**. My goal is to become proficient in backend development to create robust and efficient applications.
+<p align="center">
+Passionate about data, databases, and building efficient data systems.<br>
+Currently growing my skills in Data Engineering and modern data tools.
+</p>
 
-I’m also eager to learn best practices in **database optimization** and **system architecture**, and I'm highly interested in working on projects that solve real-world problems or contribute to open-source communities. Through these projects, I aim to enhance my skills and make a positive impact in the tech community.
+###
 
-- **I’m looking to collaborate on:**  
-Backend projects or beginner-friendly open-source projects to help me improve my JavaScript skills and backend development knowledge.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+</div>
 
-- **My career goal:**  
-To become a skilled backend developer who can design efficient systems and contribute to impactful projects. I aspire to work in environments that foster continuous learning and collaboration, where I can develop solutions that make a difference.
+###
 
-&nbsp;
+<h3>📌 About Me</h3>
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eynarenrmorales)
+<ul>
+  <li>🎓 Computer Science student</li>
+  <li>📊 Focused on Data Engineering</li>
+  <li>🐍 Working with Python, Pandas & NumPy for data processing</li>
+  <li>💾 Strong foundation in SQL (PostgreSQL, MySQL, Oracle)</li>
+  <li>🧠 Knowledge in Data Modeling (Star Schema, normalization)</li>
+  <li>⚙️ Interested in building ETL/ELT pipelines</li>
+</ul>
 
-&nbsp;
+###
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<h3>🚀 Current Focus</h3>
 
-&nbsp;
+<ul>
+  <li>Learning dbt for data transformations</li>
+  <li>Improving SQL performance and query optimization</li>
+  <li>Building data projects with real-world datasets</li>
+  <li>Strengthening data modeling and pipeline design skills</li>
+</ul>
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Eynarr&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Eynarr&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eynarr&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=eynarr&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eynarr/eynarr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eynarr/eynarr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eynarr/eynarr/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=tokyonight"  />
+</div>
+
+###
