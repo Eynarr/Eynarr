@@ -32,11 +32,11 @@ Currently growing my skills in Data Engineering and modern data tools.
 <h3>📌 About Me</h3>
 
 <ul>
-  <li>🎓 Computer Science student</li>
+  <li>🎓 Software Engineering student</li>
   <li>📊 Focused on Data Engineering</li>
   <li>🐍 Working with Python, Pandas & NumPy for data processing</li>
-  <li>💾 Strong foundation in SQL (PostgreSQL, MySQL, Oracle)</li>
-  <li>🧠 Knowledge in Data Modeling (Star Schema, normalization)</li>
+  <li>💾 Strong foundation in SQL</li>
+  <li>🧠 Knowledge in Data Modeling (Star Schema, Snowflake Schema and Normalization)</li>
   <li>⚙️ Interested in building ETL/ELT pipelines</li>
 </ul>
 
