@@ -54,7 +54,7 @@ Currently growing my skills in Data Engineering and modern data tools.
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eynarr&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=eynarr&theme=tokyonight&hide_border=true&border_radius=5&cache_seconds=1800&v=2" height="150" alt="streak graph" />
 </div>
 
 ###
