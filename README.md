@@ -3,7 +3,7 @@
 <h3 align="center">I'm Eynar Morales — Aspiring Data Engineer 🚀</h3>
 
 <p align="center">
-Passionate about data, databases, and building efficient data systems.<br>
+Passionate about data, databases, analytics, and building efficient data systems.<br>
 Currently growing my skills in Data Engineering and modern data tools.
 </p>
 
@@ -45,7 +45,7 @@ Currently growing my skills in Data Engineering and modern data tools.
 <h3>🚀 Current Focus</h3>
 
 <ul>
-  <li>Learning dbt for data transformations</li>
+  <li>Learning dbt and PySpark for data transformations</li>
   <li>Improving SQL performance and query optimization</li>
   <li>Building data projects with real-world datasets</li>
   <li>Strengthening data modeling and pipeline design skills</li>
