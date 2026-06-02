@@ -22,9 +22,9 @@ Currently growing my skills in Data Engineering and modern data tools.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tableau" height="60" alt="tableau logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/tableau.svg" height="60" alt="tableau logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/alteryx" height="60" alt="alteryx logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/alteryx.svg" height="60" alt="alteryx logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
