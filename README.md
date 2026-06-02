@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-<h3 align="center">I'm Eynar Morales — Aspiring Data Engineer 🚀</h3>
+<h3 align="center">I'm Eynar Morales 🚀</h3>
 
 <p align="center">
 Passionate about data, databases, analytics, and building efficient data systems.<br>
